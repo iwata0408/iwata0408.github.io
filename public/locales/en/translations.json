@@ -1,6 +1,6 @@
 {
   "header": {
-    "name": "Your Name"
+    "name": "Takeshi Iwata"
   },
   "nav": {
     "bio": "About",
@@ -10,11 +10,11 @@
     "contact": "Contact"
   },
   "bio": {
-    "name": "Your Name",
-    "nameJp": "あなたの名前",
+    "name": "Takeshi Iwata",
+    "nameJp": "岩田 健史",
     "phd": "",
-    "phdJp": "博士（工学）",
-    "position": "Postdoctoral Researcher",
+    "phdJp": "",
+    "position": "Technical Assistant",
     "affiliation": "Institute of Engineering Innovation, The University of Tokyo",
     "github": "https://github.com/yourusername",
     "scholar": "https://scholar.google.com/citations?user=your-id",
@@ -23,8 +23,10 @@
     "linkedin": "https://www.linkedin.com/in/yourusername/",
     "researchInterests": "Research Interests",
     "researchTags": [
-      "Mathematics",
-      "Physics"
+      "Electron Microscopy",
+      "Materials Science"
+      "Quasicrystal"
+      "Magnetics"
     ]
   },
   "publications": {
@@ -60,13 +62,13 @@
     "location": "Location",
     "relatedLinks": "Related Links",
     "email": "Email",
-    "emailAdress": "your.email[at]example.com",
+    "emailAdress": "iwata@sigama.t.u-tokyo.ac.jp",
     "phone": "Phone",
-    "phoneNumber": "+81-3-5841-7689",
+    "phoneNumber": "+81-80-8079-2859",
     "address": "Address",
     "addressLine1": "Electron Microscopy and Materials Science Laboratory",
     "addressLine2": "The University of Tokyo",
-    "addressLine3": "Room 419, Faculty of Engineering Bldg. 9, 2-11-16 Yayoi, Bunkyo-ku, Tokyo 113-0032, Japan",
+    "addressLine3": "Room 622, Faculty of Engineering Bldg. 9, 2-11-16 Yayoi, Bunkyo-ku, Tokyo 113-0032, Japan",
     "socialMedia": "",
     "linkedin": "",
     "facebook": "",
