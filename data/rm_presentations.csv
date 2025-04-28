@@ -1,10 +1,13 @@
 presentations
 ID,タイトル(英語),タイトル(日本語),講演者(英語),講演者(日本語),会議名(英語),会議名(日本語),発表年月日,開催地(英語),開催地(日本語),招待の有無
-presentation-1,Your Presentation Title1,あなたの発表タイトル1,"Author 1, Author 2","著者1, 著者2",Conference Name,会議名,2023-01-01,Location,場所,false
-presentation-2,Your Presentation Title2,あなたの発表タイトル2,"Author 1, Author 2","著者1, 著者2",Conference Name,会議名,2021-01-04,Location,場所,false
-presentation-3,Your Presentation Title3,あなたの発表タイトル3,"Author 1, Author 2","著者1, 著者2",Conference Name,会議名,2023-10-01,Location,場所,false
-presentation-4,Your Presentation Title4,あなたの発表タイトル4,"Author 1, Author 2","著者1, 著者2",Conference Name,会議名,2024-11-31,Location,場所,true
-presentation-5,Your Presentation Title5,あなたの発表タイトル5,"Author 1, Author 2","著者1, 著者2",Conference Name,会議名,2023-01-01,Location,場所,false
-presentation-5,Your Presentation Title5,あなたの発表タイトル5,"Author 1, Author 2","著者1, 著者2",Conference Name,会議名,2023-01-01,Location,場所,false
-presentation-6,Your Presentation Title6,あなたの発表タイトル6,"Author 1, Author 2","著者1, 著者2",Conference Name,会議名,2023-01-01,Location,場所,false
-presentation-7,Your Presentation Title7,あなたの発表タイトル7,"Author 1, Author 2","著者1, 著者2",Conference Name,会議名,2023-03-02,Location,場所,false
+presentation-1,Your Presentation Title1,DPC STEM による強磁性準結晶の局所磁区構造観察,"Author 1, Author 2","岩田 健史, 関 岳人, 石川 明日香, 田村 隆治, 幾原 雄一, 柴田 直哉",Conference Name,第26回準結晶研究会,2022-02-21,Location,Online,false
+presentation-2,Your Presentation Title1,DPC STEMによる強磁性準結晶の磁区構造直接観察,"Author 1, Author 2","岩田 健史, 関 岳人, 石川 明日香, 田村 隆治, 幾原 雄一, 柴田 直哉",Conference Name,日本金属学会2022年秋期第171回講演大会,2022-09-22,Location,福岡工業大学,false
+presentation-3,Your Direct observation of magnetic domains in ferromagnetic quasicrystal by DPC STEM,あなたの発表タイトル2,"Takeshi Iwata, Takehito Seki, Asuka Ishikawa, Ryuji Tamura, Yuichi Ikuhara, Naoya Shibata","著者1, 著者2",The 4th East-Asia Microscopy Conference,会議名,2022-12-04,Taipei,場所,false
+presentation-4,Your Presentation Title3,DPC STEM による強磁性準結晶の磁区構造直接観察 II,"Author 1, Author 2","岩田 健史, 関 岳人, 石川 明日香, 田村 隆治, 幾原 雄一, 柴田 直哉",Conference Name,第27回準結晶研究会,2023-02-27,Location,名古屋大学,false
+presentation-5,Your Presentation Title3,極低温DPC DTEMによる強磁性準結晶の局所磁区構造観察,"Author 1, Author 2","岩田 健史, 関 岳人, 石川 明日香, 田村 隆治, 幾原 雄一, 柴田 直哉",Conference Name,日本顕微鏡学会第79回学術講演会,2023-06-26,Location,松江,false
+presentation-6,Your Direct Observation of Magnetic Domain Structure in a Ferromagnetic Quasicrystal by DPC STEM,あなたの発表タイトル4,"Takeshi Iwata, Takehito Seki, Asuka Ishikawa, Ryuji Tamura, Yuichi Ikuhara, Naoya Shibata","著者1, 著者2",IAMNano2023,会議名,2023-06-28,Matsue,場所,true
+presentation-7,Your Presentation Title3,DPC STEM による強磁性準結晶の結晶磁気異方性観察,"Author 1, Author 2","岩田 健史, 関 岳人, 石川 明日香, 田村 隆治, 幾原 雄一, 柴田 直哉",Conference Name,第28回準結晶研究会,2024-12-19,Location,北海道大学,false
+presentation-8,Your Presentation Title3,極低温DPC STEMによる強磁性準結晶の局所磁区構造観察,"Author 1, Author 2","岩田 健史, 関 岳人, 石川 明日香, 田村 隆治, 河野 祐二, 幾原 雄一, 柴田 直哉",Conference Name,2023年度 日本顕微鏡学会 超高分解能顕微鏡法分科会 研究討論会,2024-03-09,Location,マホロバ・マインズ三浦,false
+presentation-9,Your Presentation Title3,DPC STEMによる強磁性準結晶の結晶磁気異方性観察,"Author 1, Author 2","岩田 健史, 関 岳人, 石川 明日香, 田村 隆治, 河野 祐二, 幾原 雄一, 柴田 直哉",Conference Name,日本顕微鏡学会第80回学術講演会,2024-06-04,Location,幕張メッセ国際会議場,false
+presentation-10,Your Presentation Title5,DPC STEMを用いた強磁性準結晶の局所磁区構造観察,"Author 1, Author 2","岩田 健史, 関 岳人, 石川 明日香, 田村 隆治, 河野 祐二, 幾原 雄一, 柴田 直哉",Conference Name,日本物理学会年次大会,2024-09-17,Location,北海道大学,false
+presentation-11,Your Presentation Title6,あなたの発表タイトル6,"Author 1, Author 2","著者1, 著者2",Conference Name,会議名,2023-01-01,Location,場所,false
