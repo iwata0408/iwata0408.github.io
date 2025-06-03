@@ -4,8 +4,8 @@
     "position": "学士（工学）",
     "organization": "東京大学",
     "location": "東京、日本",
-    "startDate": "2016",
-    "endDate": "2020",
+    "startDate": "2015",
+    "endDate": "2021",
     "description": "",
     "type": "education"
   },
@@ -14,27 +14,17 @@
     "position": "修士（工学）",
     "organization": "東京大学",
     "location": "東京、日本",
-    "startDate": "2020",
-    "endDate": "2022",
+    "startDate": "2021",
+    "endDate": "2023",
     "description": "",
     "type": "education"
   },
   {
     "id": "career-3",
-    "position": "博士（工学）",
+    "position": "学術専門職員",
     "organization": "東京大学",
     "location": "東京、日本",
-    "startDate": "2022",
-    "endDate": "2025",
-    "description": "",
-    "type": "education"
-  },
-  {
-    "id": "career-4",
-    "position": "博士研究員",
-    "organization": "東京大学",
-    "location": "東京、日本",
-    "startDate": "2025",
+    "startDate": "2023",
     "endDate": null,
     "description": "",
     "type": "work"
