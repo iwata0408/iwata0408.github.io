@@ -1,0 +1,58 @@
+[
+  {
+    "id": "presentation-7",
+    "title": "DPC STEM による強磁性準結晶の結晶磁気異方性観察",
+    "titleJa": "DPC STEM による強磁性準結晶の結晶磁気異方性観察",
+    "speakers": "岩田 健史, 関 岳人, 石川 明日香, 田村 隆治, 幾原 雄一, 柴田 直哉",
+    "speakersJa": "岩田 健史, 関 岳人, 石川 明日香, 田村 隆治, 幾原 雄一, 柴田 直哉",
+    "conference": "第28回準結晶研究会",
+    "conferenceJa": "第28回準結晶研究会",
+    "date": "2024-12-19",
+    "year": "2024",
+    "place": "北海道大学",
+    "placeJa": "北海道大学",
+    "isInvited": false
+  },
+  {
+    "id": "presentation-10",
+    "title": "DPC STEMを用いた強磁性準結晶の局所磁区構造観察",
+    "titleJa": "DPC STEMを用いた強磁性準結晶の局所磁区構造観察",
+    "speakers": "岩田 健史, 関 岳人, 石川 明日香, 田村 隆治, 河野 祐二, 幾原 雄一, 柴田 直哉",
+    "speakersJa": "岩田 健史, 関 岳人, 石川 明日香, 田村 隆治, 河野 祐二, 幾原 雄一, 柴田 直哉",
+    "conference": "日本物理学会年次大会",
+    "conferenceJa": "日本物理学会年次大会",
+    "date": "2024-09-17",
+    "year": "2024",
+    "place": "北海道大学",
+    "placeJa": "北海道大学",
+    "isInvited": false
+  },
+  {
+    "id": "presentation-9",
+    "title": "DPC STEMによる強磁性準結晶の結晶磁気異方性観察",
+    "titleJa": "DPC STEMによる強磁性準結晶の結晶磁気異方性観察",
+    "speakers": "岩田 健史, 関 岳人, 石川 明日香, 田村 隆治, 河野 祐二, 幾原 雄一, 柴田 直哉",
+    "speakersJa": "岩田 健史, 関 岳人, 石川 明日香, 田村 隆治, 河野 祐二, 幾原 雄一, 柴田 直哉",
+    "conference": "日本顕微鏡学会第80回学術講演会",
+    "conferenceJa": "日本顕微鏡学会第80回学術講演会",
+    "date": "2024-06-04",
+    "year": "2024",
+    "place": "幕張メッセ国際会議場",
+    "placeJa": "幕張メッセ国際会議場",
+    "isInvited": false
+  },
+  {
+    "id": "presentation-8",
+    "title": "極低温DPC STEMによる強磁性準結晶の局所磁区構造観察",
+    "titleJa": "極低温DPC STEMによる強磁性準結晶の局所磁区構造観察",
+    "speakers": "岩田 健史, 関 岳人, 石川 明日香, 田村 隆治, 河野 祐二, 幾原 雄一, 柴田 直哉",
+    "speakersJa": "岩田 健史, 関 岳人, 石川 明日香, 田村 隆治, 河野 祐二, 幾原 雄一, 柴田 直哉",
+    "conference": "2023年度 日本顕微鏡学会 超高分解能顕微鏡法分科会 研究討論会",
+    "conferenceJa": "2023年度 日本顕微鏡学会 超高分解能顕微鏡法分科会 研究討論会",
+    "date": "2024-03-09",
+    "year": "2024",
+    "place": "マホロバ・マインズ三浦",
+    "placeJa": "マホロバ・マインズ三浦",
+    "isInvited": false
+  }
+]

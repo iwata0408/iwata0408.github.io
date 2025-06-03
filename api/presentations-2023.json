@@ -1,0 +1,44 @@
+[
+  {
+    "id": "presentation-6",
+    "title": "Direct Observation of Magnetic Domain Structure in a Ferromagnetic Quasicrystal by DPC STEM",
+    "titleJa": "Direct Observation of Magnetic Domain Structure in a Ferromagnetic Quasicrystal by DPC STEM",
+    "speakers": "Takeshi Iwata, Takehito Seki, Asuka Ishikawa, Ryuji Tamura, Yuichi Ikuhara, Naoya Shibata",
+    "speakersJa": "Takeshi Iwata, Takehito Seki, Asuka Ishikawa, Ryuji Tamura, Yuichi Ikuhara, Naoya Shibata",
+    "conference": "IAMNano2023",
+    "conferenceJa": "IAMNano2023",
+    "date": "2023-06-28",
+    "year": "2023",
+    "place": "Matsue",
+    "placeJa": "Matsue",
+    "isInvited": false
+  },
+  {
+    "id": "presentation-5",
+    "title": "極低温DPC DTEMによる強磁性準結晶の局所磁区構造観察",
+    "titleJa": "極低温DPC DTEMによる強磁性準結晶の局所磁区構造観察",
+    "speakers": "岩田 健史, 関 岳人, 石川 明日香, 田村 隆治, 幾原 雄一, 柴田 直哉",
+    "speakersJa": "岩田 健史, 関 岳人, 石川 明日香, 田村 隆治, 幾原 雄一, 柴田 直哉",
+    "conference": "日本顕微鏡学会第79回学術講演会",
+    "conferenceJa": "日本顕微鏡学会第79回学術講演会",
+    "date": "2023-06-26",
+    "year": "2023",
+    "place": "くにびきメッセ",
+    "placeJa": "くにびきメッセ",
+    "isInvited": false
+  },
+  {
+    "id": "presentation-4",
+    "title": "DPC STEM による強磁性準結晶の磁区構造直接観察 II",
+    "titleJa": "DPC STEM による強磁性準結晶の磁区構造直接観察 II",
+    "speakers": "岩田 健史, 関 岳人, 石川 明日香, 田村 隆治, 幾原 雄一, 柴田 直哉",
+    "speakersJa": "岩田 健史, 関 岳人, 石川 明日香, 田村 隆治, 幾原 雄一, 柴田 直哉",
+    "conference": "第27回準結晶研究会",
+    "conferenceJa": "第27回準結晶研究会",
+    "date": "2023-02-27",
+    "year": "2023",
+    "place": "名古屋大学",
+    "placeJa": "名古屋大学",
+    "isInvited": false
+  }
+]
